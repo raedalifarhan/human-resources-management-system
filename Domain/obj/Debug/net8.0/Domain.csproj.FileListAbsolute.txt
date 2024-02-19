@@ -1,0 +1,25 @@
+D:\Projects\human-resources-management-system\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Projects\human-resources-management-system\Domain\bin\Debug\net8.0\Domain.dll
+D:\Projects\human-resources-management-system\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Projects\human-resources-management-system\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Projects\human-resources-management-system\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\human-resources-management-system\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Projects\human-resources-management-system\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Projects\human-resources-management-system\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Projects\human-resources-management-system\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+D:\Projects\human-resources-management-system\Domain\obj\Debug\net8.0\Domain.dll
+D:\Projects\human-resources-management-system\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Projects\human-resources-management-system\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Projects\human-resources-management-system\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Domain\obj\Debug\net8.0\ref\Domain.dll
