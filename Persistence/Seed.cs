@@ -67,15 +67,15 @@ namespace Persistence
                 {
                     var branchList = new List<Branch>
                     {
-                        new Branch { BranchName = "الفرع الرئيسي" , Flag = "MAIN"},
-                        new Branch { BranchName = "الرقة" , Flag = "RAQ"},
-                        new Branch { BranchName = "الطبقة" , Flag = "TBQ"},
-                        new Branch { BranchName = "دير الزور" , Flag = "DEZ"},
-                        new Branch { BranchName = "كوباني"  , Flag = "QUB"},
-                        new Branch { BranchName = "منبج" , Flag = "MNBJ"},
-                        new Branch { BranchName = "الحسكة" , Flag = "HSK"},
-                        new Branch { BranchName = "ديريك" , Flag = "DRK"},
-                        new Branch { BranchName = "القامشلي" , Flag = "QMSH"},
+                        new Branch { BranchName = "الفرع الرئيسي" , Flag = "MAIN", CreateDate = DateTime.UtcNow.ToString()},
+                        new Branch { BranchName = "الرقة" , Flag = "RAQ", CreateDate = DateTime.UtcNow.ToString()},
+                        new Branch { BranchName = "الطبقة" , Flag = "TBQ", CreateDate = DateTime.UtcNow.ToString()},
+                        new Branch { BranchName = "دير الزور" , Flag = "DEZ", CreateDate = DateTime.UtcNow.ToString()},
+                        new Branch { BranchName = "كوباني"  , Flag = "QUB", CreateDate = DateTime.UtcNow.ToString()},
+                        new Branch { BranchName = "منبج" , Flag = "MNBJ", CreateDate = DateTime.UtcNow.ToString()},
+                        new Branch { BranchName = "الحسكة" , Flag = "HSK", CreateDate = DateTime.UtcNow.ToString()},
+                        new Branch { BranchName = "ديريك" , Flag = "DRK", CreateDate = DateTime.UtcNow.ToString()},
+                        new Branch { BranchName = "القامشلي" , Flag = "QMSH", CreateDate = DateTime.UtcNow.ToString()},
                     };
                     await context.Branches.AddRangeAsync(branchList);
                     await context.SaveChangesAsync();
@@ -86,12 +86,12 @@ namespace Persistence
                 {
                     var jobPositionList = new List<JobPosition>
                     {
-                        new JobPosition { PositionName = "Assistant" },
-                        new JobPosition { PositionName = "Officer" },
-                        new JobPosition { PositionName = "Team Leader" },
-                        new JobPosition { PositionName = "Manager"  },
-                        new JobPosition { PositionName = "Coordinator" },
-                        new JobPosition { PositionName = "Head of office" },
+                        new JobPosition { PositionName = "Assistant" , CreateDate = DateTime.UtcNow.ToString()},
+                        new JobPosition { PositionName = "Officer" , CreateDate = DateTime.UtcNow.ToString()},
+                        new JobPosition { PositionName = "Team Leader" , CreateDate = DateTime.UtcNow.ToString()},
+                        new JobPosition { PositionName = "Manager"  , CreateDate = DateTime.UtcNow.ToString()},
+                        new JobPosition { PositionName = "Coordinator" , CreateDate = DateTime.UtcNow.ToString()},
+                        new JobPosition { PositionName = "Head of office" , CreateDate = DateTime.UtcNow.ToString()},
                     };
                     await context.JobPositions.AddRangeAsync(jobPositionList);
                     await context.SaveChangesAsync();

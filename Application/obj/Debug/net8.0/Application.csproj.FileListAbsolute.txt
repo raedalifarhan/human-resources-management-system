@@ -32,4 +32,23 @@ C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Application\
 C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Application\obj\Debug\net8.0\refint\Application.dll
 C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Application\obj\Debug\net8.0\Application.pdb
 C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Application\obj\Debug\net8.0\ref\Application.dll
-C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Application\obj\Debug\net8.0\Application.csproj.CopyComplete
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\Raed Farhan\Desktop\human-resources-management-system-main\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Projects\csharp\human-resources-management-system\Application\bin\Debug\net8.0\Application.deps.json
+D:\Projects\csharp\human-resources-management-system\Application\bin\Debug\net8.0\Application.dll
+D:\Projects\csharp\human-resources-management-system\Application\bin\Debug\net8.0\Application.pdb
+D:\Projects\csharp\human-resources-management-system\Application\bin\Debug\net8.0\Domain.dll
+D:\Projects\csharp\human-resources-management-system\Application\bin\Debug\net8.0\Persistence.dll
+D:\Projects\csharp\human-resources-management-system\Application\bin\Debug\net8.0\Domain.pdb
+D:\Projects\csharp\human-resources-management-system\Application\bin\Debug\net8.0\Persistence.pdb
+D:\Projects\csharp\human-resources-management-system\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Projects\csharp\human-resources-management-system\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\csharp\human-resources-management-system\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+D:\Projects\csharp\human-resources-management-system\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+D:\Projects\csharp\human-resources-management-system\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+D:\Projects\csharp\human-resources-management-system\Application\obj\Debug\net8.0\Application.sourcelink.json
+D:\Projects\csharp\human-resources-management-system\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+D:\Projects\csharp\human-resources-management-system\Application\obj\Debug\net8.0\Application.dll
+D:\Projects\csharp\human-resources-management-system\Application\obj\Debug\net8.0\refint\Application.dll
+D:\Projects\csharp\human-resources-management-system\Application\obj\Debug\net8.0\Application.pdb
+D:\Projects\csharp\human-resources-management-system\Application\obj\Debug\net8.0\ref\Application.dll

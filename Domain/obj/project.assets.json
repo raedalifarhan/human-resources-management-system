@@ -811,19 +811,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Raed Farhan\\.nuget\\packages\\": {}
+    "C:\\Users\\RaedAlfarhanAlfarhan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Raed Farhan\\Desktop\\human-resources-management-system-main\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Projects\\csharp\\human-resources-management-system\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Raed Farhan\\Desktop\\human-resources-management-system-main\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\Raed Farhan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Raed Farhan\\Desktop\\human-resources-management-system-main\\Domain\\obj\\",
+      "projectPath": "D:\\Projects\\csharp\\human-resources-management-system\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\RaedAlfarhanAlfarhan\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\csharp\\human-resources-management-system\\Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Raed Farhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RaedAlfarhanAlfarhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -831,6 +836,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

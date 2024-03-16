@@ -21,7 +21,7 @@ namespace Application.Assests
 
             public async Task<Result<string>> Handle(Command request, CancellationToken cancellationToken)
             {
-                var fileName = request?.model?.File.FileName;
+                var fileName = request?.model?.File?.FileName;
 
                 var fileExtension = Path.GetExtension(fileName);
 

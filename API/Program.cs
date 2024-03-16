@@ -22,7 +22,6 @@ builder.Services.AddIdentityServices(builder.Configuration);
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-
 app.UseMiddleware<ExceptionMiddleware>();
 
 if (app.Environment.IsDevelopment())
@@ -32,21 +31,27 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseCors("Access-Control-Allow-Origin");
-
 app.UseHttpsRedirection();
-
 app.UseStaticFiles();
-
-// app.UseCors(options => {
-//     options.AllowAnyHeader()
-//     .AllowAnyMethod()
-//     .AllowAnyOrigin();
-// });
 
 app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+
+//// Configure serving SPA static files from a specific directory
+//app.UseSpaStaticFiles(new StaticFileOptions
+//{
+//    RequestPath = "/hr-web-app/build" // Adjust the path according to your setup
+//});
+
+//app.UseSpa(spa =>
+//{
+//    if (builder.Environment.IsDevelopment())
+//    {
+//        spa.UseProxyToSpaDevelopmentServer("http://localhost:3000");
+//    }
+//});
 
 using (var scope = app.Services.CreateScope())
 {
@@ -64,7 +69,7 @@ using (var scope = app.Services.CreateScope())
     catch (Exception ex)
     {
         var logger = loggerFactory.CreateLogger<Program>();
-        logger.LogError(ex, "An error accured during migration");
+        logger.LogError(ex, "An error occurred during migration");
     }
 }
 
